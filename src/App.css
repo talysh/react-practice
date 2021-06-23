@@ -25,7 +25,13 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #5e6769;
+}
+
+h1 {
+  font-family: "Bigelow Rules";
+  font-size: 5rem;
+  color: #f9f9f9;
 }
 
 @keyframes App-logo-spin {
